@@ -1,0 +1,13 @@
+name: microbe
+title: microbe
+username:
+account: sada-e
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1911898
+bundleId: 2855847
+url: https://sada-e.shinyapps.io/microbe/
+when: 1583464097.68003
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: www/bootstrap.css|www/logo.svg|makefiles
